@@ -39,3 +39,4 @@ jspm_packages/
 !/project.json
 !/LICENSE
 node_modules/
+threat-composer/node_modules/
