@@ -38,3 +38,4 @@ jspm_packages/
 /build/
 !/project.json
 !/LICENSE
+node_modules/
